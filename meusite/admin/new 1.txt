@@ -1,0 +1,31 @@
+1 – Os grupos para o projeto devem ser compostos de no MÁXIMO 3 INTEGRANTES
+
+2 – O projeto deve ser apresentado em sala de aula nos dias definidos e informados logo abaixo.
+
+3 – A apresentação do projeto é obrigatório, fazendo parte da avaliação. O aluno que não apresenta o trabalho não receberá a nota do mesmo.
+
+5 – O projeto possui peso 5 na nota final do estágio. O restante da nota virá da prova.
+
+6 – O dia da apresentação deve ser OBRIGATÓRIAMENTE respeitado. Caso grupos de ambas as datas queiram realizar uma troca, devem chegar ao acordo, e informar ao professor.
+
+7 – O projeto não deve ser enviado e sim apresentado.
+
+ 
+
+Segue descrição das funcionalidades que devem ser adicionadas ao projeto do BANCO que estamos desenvolvendo em sala.
+
+ 7 - Consultar Saldo (deve ser informado o número da conta e retornar o saldo da mesma)
+
+ 8 - Realizar Saque (deve informar o número da conta, e o valor que deseja sacar. O saque deve ser realizado e o valor debitado do saldo da conta)
+
+ 9 - Realizar deposito (informar o número da conta e o valor para depositar. Acrescentar ao saldo atual o valor depositado)
+
+ 10 - Realizar Transferência (deve ser realizado o saque em uma conta e o deposito em outra)
+
+ 11 - Reder Juros (sempre que for realizado um deposito em uma conta do tipo poupança deve render juros de 0,05% (meio porcento) sobre o valor depositado)
+
+ 12 - Reder Bônus (sempre que for realizado qual operação de retirada de dinheiro da conta bonificada, deve render um bônus de 0,02% sobre o valor da transação. )
+
+ 13 - Encerar Conta (informar a conta e excluir da base de dados)
+
+ 14 - Finalizar Sistema
